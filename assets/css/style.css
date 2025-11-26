@@ -83,10 +83,10 @@ body {
   transform: scale(1.07);
 }
 
-.search button::before {
+/* .search button::before {
   content: "🔍";
   font-size: 28px;
-}
+} */
 
 /* Weather Section */
 .weather {
