@@ -22,7 +22,7 @@ body {
   background: rgba(255,255,255,0.08);
   backdrop-filter: blur(14px);
   border: 1px solid rgba(255,255,255,0.15);
-  /* box-shadow: 0 9px 30px rgba(0,254,186,0.25); */
+  box-shadow: 0 9px 30px rgba(0,254,186,0.25);
   color: #fff;
   margin-top: 60px;
   border-radius: 26px;
@@ -63,7 +63,7 @@ body {
 
 .search input:focus {
   background: rgba(0,254,186,0.22);
-  /* box-shadow: 0 0 18px #00feba; */
+  box-shadow: 0 0 18px #00feba;
 }
 
 .search button {
@@ -78,8 +78,8 @@ body {
 }
 
 .search button:hover {
-  /* background: #00feba; */
-  /* box-shadow: 0 0 15px #00feba; */
+  background: #00feba;
+  box-shadow: 0 0 15px #00feba;
   transform: scale(1.07);
 }
 
@@ -92,7 +92,7 @@ body {
 .weather-icon {
   width: 190px;
   margin-bottom: 12px;
-  /* filter: drop-shadow(0 0 14px #00feba); */
+  filter: drop-shadow(0 0 14px #00feba);
   animation: float 3s infinite;
 }
 
@@ -106,7 +106,7 @@ body {
   font-size: 90px;
   font-weight: 700;
   margin-bottom: 8px;
-  /* text-shadow: 0 0 12px #00feba; */
+  text-shadow: 0 0 12px #00feba;
 }
 
 .weather .city {
