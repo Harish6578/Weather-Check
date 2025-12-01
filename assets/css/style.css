@@ -22,7 +22,7 @@ body {
   background: rgba(255,255,255,0.08);
   backdrop-filter: blur(14px);
   border: 1px solid rgba(255,255,255,0.15);
-  /* box-shadow: 0 9px 30px rgba(0,254,186,0.25); */
+  box-shadow: 0 9px 30px rgba(0,254,186,0.25);
   color: #fff;
   margin-top: 60px;
   border-radius: 26px;
@@ -136,7 +136,7 @@ body {
 }
 
 .col:hover {
-  /* background: rgba(0,254,186,0.18); */
+  background: rgba(0,254,186,0.18);
   transform: translateY(-4px);
 }
 
