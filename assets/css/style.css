@@ -86,7 +86,7 @@ body {
 /* Weather Section */
 .weather {
   margin-top: 30px;
-  display: none; /* ✅ Keep it hidden until search */
+  display: none;  /*✅ Keep it hidden until search */
 }
 
 .weather-icon {
